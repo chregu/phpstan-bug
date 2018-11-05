@@ -4,7 +4,7 @@ trait SomeTrait {
 
 
     /**
-     * @param mixed $data
+     * @param mixed $data Some Comment.
      * @return int
      */
     private function traitCall($data): int {
