@@ -14,7 +14,7 @@
     "require-dev": {
         "php": ">=7.2",
         "symfony/var-dumper": "^4.1",
-        "phpstan/phpstan": "^0.10.5",
+        "phpstan/phpstan": "dev-master as 0.10.6-dev",
         "phpstan/phpstan-strict-rules": "^0.10.0"
 
     }
